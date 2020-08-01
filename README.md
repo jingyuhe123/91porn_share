@@ -37,7 +37,7 @@
 | data | 视频列表，object格式见下 | 是   | Array[Object] |
 
 
-list object结构,如下：
+data object结构,如下：
 
 | 参数       | 描述        | 必有 | 类型   |
 | ---------- | ----------- | ---- | ------ |
