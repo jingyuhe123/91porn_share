@@ -84,8 +84,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
 
 ```
 BTC 1CuUZZEDhG4SzcwHu9GgaTGm1bbvX2e4cp
-![image]
-(https://github.com/fuck91master/91porn_share/blob/master/BTC.jpg)
+![Image text](https://github.com/fuck91master/91porn_share/blob/master/BTC.jpg)
 
 ```
 
