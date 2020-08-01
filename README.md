@@ -31,9 +31,9 @@
 
 | 参数        | 描述                     | 必有 | 类型          |
 | ----------- | ------------------------ | ---- | ------------- |
-| status   | 总页数                   | 是   | String        |
-| msg | 当前页                   | 是   | String        |
-| count| 回显列表种类字段         | 是   | String        |
+| status   | 状态码                   | 是   | String        |
+| msg | 状态消息                   | 是   | String        |
+| count| 总数         | 是   | String        |
 | data | 视频列表，object格式见下 | 是   | Array[Object] |
 
 
