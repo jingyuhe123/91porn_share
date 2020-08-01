@@ -80,10 +80,10 @@ https://api.zhaiclub.com/source/source_list?title=电话
 }
 ```
 
-###服务器成本比较高，有钱捧个钱场
+### 服务器成本比较高,有钱捧个钱场,没钱的捧个人场
 
 ```
-BTC 1CuUZZEDhG4SzcwHu9GgaTGm1bbvX2e4cp
+BTC:1CuUZZEDhG4SzcwHu9GgaTGm1bbvX2e4cp
 
 ```
 ![Image text](https://github.com/fuck91master/91porn_share/blob/master/BTC.jpg)
