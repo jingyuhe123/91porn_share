@@ -20,8 +20,8 @@
 | -------- | ------------------------------------------------ | ---- | ------ |
 | viewkey  | 视频播放id                                             | 否  | string    |
 | page     | 页码                                             | 否  | int    |
-| title     | 标题                                           | 否  | string   |
-| author     | 作者                                             | 否  |  string   |
+| title     | 标题（支持模糊搜索）                                           | 否  | string   |
+| author     | 作者（支持模糊搜索）                                             | 否  |  string   |
 | up_time     |上传时间                                             | 否  | string   |
 | is_91_del     | 是否已被91删除                                        | 否  | int    |
 
