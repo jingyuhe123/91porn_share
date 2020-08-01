@@ -3,7 +3,7 @@
 
 # API版接口 
 
-接口: https://api.zhaiclub.com/source/
+接口: https://api.zhaiclub.com/source/source_list
 
 ## 接口：获取视频列表
 | 描述     | 内容               |
