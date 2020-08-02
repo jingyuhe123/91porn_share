@@ -23,7 +23,6 @@
 | title     | 标题（支持模糊搜索）                                           | 否  | string   |
 | author     | 作者（支持模糊搜索）                                             | 否  |  string   |
 | up_time     |上传时间                                             | 否  | string   |
-| is_91_del     | 是否已被91删除                                        | 否  | int    |
 
 
 
@@ -49,7 +48,6 @@ data object结构,如下：
 | vid | 视频id    | 是   | String |
 | duration | 视频长度  | 是   | String |
 | video_url | 视频地址  | 是   | String |
-| is_91_del | 91是否删除  | 是   | String |
 
 ### 请求示例
 
@@ -74,8 +72,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
                 "title": "操着接老公电话，差点被听出来，对话刺激，已婚少妇的快乐！",
                 "vid": "386264",
                 "duration": "09:16",
-                "video_url": "https://down.zhaiclub.com/videos.php?vid=386264",
-                "is_91_del": 0
+                "video_url": "https://down.zhaiclub.com/videos.php?vid=386264"
             }
 }
 ```
