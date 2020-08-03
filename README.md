@@ -115,7 +115,7 @@ https://down.zhaiclub.com/videos.php?vid=386809&key=XXX&act=url
 {
     "code": 10000,
     "msg": "请求成功",
-    "data": "https://down.zhaiclub.com/videos.php?vid=386809&key=XXX&ticket=3d8a1e84a4c593278492083143cc94b2"
+    "data": "https://down.zhaiclub.com/videos.php?vid=386809&ticket=3d8a1e84a4c593278492083143cc94b2"
 }
 ```
 
