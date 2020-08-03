@@ -105,11 +105,17 @@ https://api.zhaiclub.com/source/source_list?title=电话
 | msg | 状态消息                   | 是   | String        |
 | data | 视频真实访问地址（10分钟有效） | 是   | String |
 
+### 请求示例
+
+```
+https://down.zhaiclub.com/videos.php?vid=386809&key=
+```
+
 ```
 {
     "code": 10000,
     "msg": "请求成功",
-    "data": "https://down.zhaiclub.com/videos.php?vid=386809&key=AgBNxvvKGMnn4xDl&ticket=3d8a1e84a4c593278492083143cc94b2"
+    "data": "https://down.zhaiclub.com/videos.php?vid=386809&key=XXX&ticket=3d8a1e84a4c593278492083143cc94b2"
 }
 ```
 
