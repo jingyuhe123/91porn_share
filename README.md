@@ -1,7 +1,7 @@
 # 91porn_share
 91porn api免费分享
 # 特别注意
-由于有个傻逼攻击服务器，因此今后请求video_url的时候需要进行鉴权。
+由于有个傻逼攻击服务器，因此今后请求video_url的时候需要进行鉴权。  
 有需要的可以发邮件fuck91master@protonmail.ch获取key。  
 如果发现key被恶意使用，将会取消授权。
 # API版接口 
