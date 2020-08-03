@@ -108,7 +108,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
 ### 请求示例
 
 ```
-https://down.zhaiclub.com/videos.php?vid=386809&key=
+https://down.zhaiclub.com/videos.php?vid=386809&key=XXX&act=url
 ```
 
 ```
