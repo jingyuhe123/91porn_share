@@ -1,13 +1,13 @@
 # 91porn_share
 91porn api免费分享
 # 特别注意
-由于有个傻逼攻击服务器，因此今后请求video_url的时候需要携带key，  
-例如：https://down.zhaiclub.com/videos.php?vid=386264&key=XXXXXX  
+由于有个傻逼攻击服务器，因此今后请求video_url的时候需要进行鉴权。
 有需要的可以发邮件fuck91master@protonmail.ch获取key。  
 如果发现key被恶意使用，将会取消授权。
 # API版接口 
 
-接口: https://api.zhaiclub.com/source/source_list
+接口: https://api.zhaiclub.com/source/source_list  
+     http://down.zhaiclub.com/videos.php
 
 ## 接口：获取视频列表
 | 描述     | 内容               |
@@ -78,6 +78,38 @@ https://api.zhaiclub.com/source/source_list?title=电话
                 "duration": "09:16",
                 "video_url": "https://down.zhaiclub.com/videos.php?vid=386264"
             }
+}
+```
+## 接口：获取视频真实地址
+| 描述     | 内容               |
+| -------- | ------------------ |
+| 接口功能 | 请求91porn视频真实地址 |
+| 请求协议 | HTTPS              |
+| 请求方法 | GET                |
+| 响应格式 | json               |
+
+### 请求参数
+
+| 参数     | 描述                                             | 必填 | 类型   |
+| -------- | ------------------------------------------------ | ---- | ------ |
+| key     | 授权码                                             | 否  | string    |
+| act     | 操作行为（默认传url）                                            | 否  | string   |
+
+
+
+### 响应参数
+
+| 参数        | 描述                     | 必有 | 类型          |
+| ----------- | ------------------------ | ---- | ------------- |
+| status   | 状态码                   | 是   | String        |
+| msg | 状态消息                   | 是   | String        |
+| data | 视频真实访问地址（10分钟有效） | 是   | String |
+
+```
+{
+    "code": 10000,
+    "msg": "请求成功",
+    "data": "https://down.zhaiclub.com/videos.php?vid=386809&key=AgBNxvvKGMnn4xDl&ticket=3d8a1e84a4c593278492083143cc94b2"
 }
 ```
 
