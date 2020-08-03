@@ -1,7 +1,9 @@
 # 91porn_share
 91porn api免费分享
 # 特别注意
-由于有个傻逼攻击服务器，因此今后请求video_url的时候需要携带key，有需要的可以发邮件fuck91master@protonmail.ch获取。
+由于有个傻逼攻击服务器，因此今后请求video_url的时候需要携带key，  
+例如：https://down.zhaiclub.com/videos.php?vid=386264&key=XXXXXX  
+有需要的可以发邮件fuck91master@protonmail.ch获取key。
 # API版接口 
 
 接口: https://api.zhaiclub.com/source/source_list
