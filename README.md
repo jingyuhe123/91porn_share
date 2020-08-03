@@ -3,7 +3,8 @@
 # 特别注意
 由于有个傻逼攻击服务器，因此今后请求video_url的时候需要携带key，  
 例如：https://down.zhaiclub.com/videos.php?vid=386264&key=XXXXXX  
-有需要的可以发邮件fuck91master@protonmail.ch获取key。
+有需要的可以发邮件fuck91master@protonmail.ch获取key。  
+如果发现key被恶意使用，将会取消授权。
 # API版接口 
 
 接口: https://api.zhaiclub.com/source/source_list
