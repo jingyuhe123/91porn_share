@@ -1,11 +1,12 @@
 # 91porn_share
-91porn api免费分享
+91porn api免费分享 纯公益和练手
 # 特别注意
 由于有个傻逼攻击服务器，估计是动了人家蛋糕了  
 因此今后请求video_url的时候需要进行鉴权   
 有需要的可以发邮件fuck91master@protonmail.ch获取key,
 如果请求频率比较高，可以把ip同时发给我，取消限制     
 如果发现key被恶意使用，将会取消授权  
+服务器太渣，请轻点虐
 # API版接口 
 
 获取视频列别接口: https://api.zhaiclub.com/source/source_list  
