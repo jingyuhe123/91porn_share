@@ -29,7 +29,7 @@
 | page     | 页码                                             | 否  | int    |
 | title     | 标题（支持模糊搜索）                                           | 否  | string   |
 | author     | 作者（支持模糊搜索）                                             | 否  |  string   |
-| up_time     |上传时间                                             | 否  | string   |
+| up_time   |上传时间                                             | 否  | string   |
 
 
 
