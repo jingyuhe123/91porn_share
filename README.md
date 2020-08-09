@@ -10,7 +10,7 @@
 # API版接口 
 
 获取视频列别接口: https://api.zhaiclub.com/source/source_list  
-获取视频播放地址接口:http://down.zhaiclub.com/videos.php
+获取视频播放地址接口:http://down.zhaiclub.com/
 
 ## 接口：获取视频列表
 | 描述     | 内容               |
