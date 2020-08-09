@@ -79,7 +79,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
                 "title": "操着接老公电话，差点被听出来，对话刺激，已婚少妇的快乐！",
                 "vid": "386264",
                 "duration": "09:16",
-                "video_url": "https://down.zhaiclub.com/videos.php?vid=386264"
+                "video_url": "https://down.zhaiclub.com/386264.mp4"
             }
 }
 ```
@@ -111,14 +111,14 @@ https://api.zhaiclub.com/source/source_list?title=电话
 ### 请求示例
 
 ```
-https://down.zhaiclub.com/videos.php?vid=386809&key=XXX&act=url
+https://down.zhaiclub.com/386809.mp4&key=XXX&act=url
 ```
 
 ```
 {
     "code": 10000,
     "msg": "请求成功",
-    "data": "https://down.zhaiclub.com/videos.php?vid=386809&ticket=3d8a1e84a4c593278492083143cc94b2"
+    "data": "https://down.zhaiclub.com/386809.mp4&ticket=3d8a1e84a4c593278492083143cc94b2"
 }
 ```
 
