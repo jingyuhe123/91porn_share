@@ -34,7 +34,7 @@
 | view     | 观看次数  | 否   | String |
 | favorites | 收藏次数  | 否   | String |
 | comment   | 评论次数  | 否   | String |
-| cintegral | 积分  | 否   | String |
+| integral | 积分  | 否   | String |
 
 
 
@@ -62,7 +62,7 @@ data object结构,如下：
 | view | 观看次数  | 是   | String |
 | favorites | 收藏次数  | 是   | String |
 | comment | 评论次数  | 是   | String |
-| cintegral | 积分  | 是   | String |
+| integral | 积分  | 是   | String |
 | video_url | 视频地址  | 是   | String |
 
 ### 请求示例
@@ -88,6 +88,10 @@ https://api.zhaiclub.com/source/source_list?title=电话
                 "title": "操着接老公电话，差点被听出来，对话刺激，已婚少妇的快乐！",
                 "vid": "386264",
                 "duration": "09:16",
+                "view": "113 ",
+                "favorites": "1",
+                "comment": "0 ",
+                "integral": "0",
                 "video_url": "https://down.zhaiclub.com/386264.mp4"
             }
 }
