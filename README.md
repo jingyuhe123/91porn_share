@@ -124,7 +124,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
 ### 请求示例
 
 ```
-https://down.zhaiclub.com/386809.mp4&key=XXX&act=url
+https://down.zhaiclub.com/386809.mp4?key=XXX&act=url
 ```
 
 ```
