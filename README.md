@@ -108,7 +108,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
 
 | 参数     | 描述                                             | 必填 | 类型   |
 | -------- | ------------------------------------------------ | ---- | ------ |
-| key     | 授权码                                             | 否  | string    |
+| key     | 授权码（发邮件申请）                                             | 否  | string    |
 | act     | 操作行为（默认传url）                                            | 否  | string   |
 
 
