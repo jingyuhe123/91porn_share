@@ -31,6 +31,10 @@
 | author   | 作者（支持模糊搜索）                                | 否  |  string   |
 | vid      |视频id                                              | 否  |  string   |
 | up_time  |上传时间                                             | 否  | string   |
+| view     | 观看次数  | 否   | String |
+| favorites | 收藏次数  | 否   | String |
+| comment   | 评论次数  | 否   | String |
+| cintegral | 积分  | 否   | String |
 
 
 
@@ -55,6 +59,10 @@ data object结构,如下：
 | title   | 视频标题    | 否   | String |
 | vid | 视频id    | 是   | String |
 | duration | 视频长度  | 是   | String |
+| view | 观看次数  | 是   | String |
+| favorites | 收藏次数  | 是   | String |
+| comment | 评论次数  | 是   | String |
+| cintegral | 积分  | 是   | String |
 | video_url | 视频地址  | 是   | String |
 
 ### 请求示例
