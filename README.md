@@ -119,7 +119,7 @@ https://api.zhaiclub.com/source/source_list?title=电话
 | ----------- | ------------------------ | ---- | ------------- |
 | status   | 状态码                   | 是   | String        |
 | msg | 状态消息                   | 是   | String        |
-| data | 视频真实访问地址（10分钟有效,限2次） | 是   | String |
+| data | 视频真实访问地址（10分钟有效）| 是   | String |
 
 ### 请求示例
 
