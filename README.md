@@ -35,7 +35,8 @@
 | favorites | 收藏次数  | 否   | String |
 | comment   | 评论次数  | 否   | String |
 | integral | 积分  | 否   | String |
-
+| order    | 排序(想要排序的字段)  | 否   | String |
+| att      | desc和asc二选一  | 否   | String |
 
 
 ### 响应参数
